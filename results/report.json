@@ -1,0 +1,120 @@
+{
+  "source": "zip",
+  "zip": "/Users/edgark/Documents/code-reasoning/AP/720D/720D_TestCases.zip",
+  "zip_sha256": "e3372dab891f38ef8ed169feac41a059ec2c2454bab4e221591a33774ffb961f",
+  "cpp": "/Users/edgark/Documents/code-reasoning/AP/solution.cpp",
+  "compiler": "g++",
+  "compare_mode": "exact",
+  "results": [
+    {
+      "case": 1,
+      "status": "PASS",
+      "runtime_ms": 522.891,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_1.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_1.txt",
+      "stdout_len": 1,
+      "stderr_len": 0,
+      "stdout_sample": "8"
+    },
+    {
+      "case": 2,
+      "status": "PASS",
+      "runtime_ms": 15.39,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_2.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_2.txt",
+      "stdout_len": 2,
+      "stderr_len": 0,
+      "stdout_sample": "16"
+    },
+    {
+      "case": 3,
+      "status": "PASS",
+      "runtime_ms": 13.919,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_3.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_3.txt",
+      "stdout_len": 2,
+      "stderr_len": 0,
+      "stdout_sample": "32"
+    },
+    {
+      "case": 4,
+      "status": "PASS",
+      "runtime_ms": 13.035,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_4.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_4.txt",
+      "stdout_len": 2,
+      "stderr_len": 0,
+      "stdout_sample": "16"
+    },
+    {
+      "case": 5,
+      "status": "PASS",
+      "runtime_ms": 8.048,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_5.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_5.txt",
+      "stdout_len": 2,
+      "stderr_len": 0,
+      "stdout_sample": "64"
+    },
+    {
+      "case": 6,
+      "status": "FAIL",
+      "runtime_ms": 6.622,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_6.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_6.txt",
+      "stdout_len": 1,
+      "stderr_len": 0,
+      "stdout_sample": "0"
+    },
+    {
+      "case": 7,
+      "status": "FAIL",
+      "runtime_ms": 14.083,
+      "return_code": -11,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_7.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_7.txt",
+      "stdout_len": 0,
+      "stderr_len": 0,
+      "stdout_sample": ""
+    },
+    {
+      "case": 8,
+      "status": "PASS",
+      "runtime_ms": 8.438,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_8.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_8.txt",
+      "stdout_len": 5,
+      "stderr_len": 0,
+      "stdout_sample": "32768"
+    },
+    {
+      "case": 9,
+      "status": "PASS",
+      "runtime_ms": 10.711,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_9.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_9.txt",
+      "stdout_len": 7,
+      "stderr_len": 0,
+      "stdout_sample": "1048576"
+    },
+    {
+      "case": 10,
+      "status": "PASS",
+      "runtime_ms": 10.778,
+      "return_code": 0,
+      "stdin_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Input_TestCase_10.txt",
+      "expected_file": "/var/folders/f5/h7r43tld0_g481dgr5p3fdmm0000gn/T/tmpck_n9fbh/unzipped/720D/720D_TestCases/720D_Output_TestCase_10.txt",
+      "stdout_len": 8,
+      "stderr_len": 0,
+      "stdout_sample": "33554432"
+    }
+  ]
+}
